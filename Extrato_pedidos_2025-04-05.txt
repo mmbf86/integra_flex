@@ -1,0 +1,8 @@
+Extrato de Pedidos do Dia:
+Pedido 1 (Data e Hora: 2025-04-05 20:56:44):
+Água
+
+Pedido 2 (Data e Hora: 2025-04-05 20:57:21):
+Coca
+Suco
+
